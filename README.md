@@ -1,2 +1,1 @@
-# hello-world
-Exploring github
+This is a simple example of README.
